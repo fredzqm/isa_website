@@ -1,5 +1,4 @@
 <?php require('php/header.php')?>
-
         <div class="container-fluid">
           <div class="container">
               <div class="panel-group" id="content">

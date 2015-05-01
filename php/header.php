@@ -1,12 +1,13 @@
+
 <html>
   <head>
       <title>ISA</title>
-      <link href="/lib/Bootstrap/css/bootstrap-theme.min.css" rel='stylesheet'>
-      <link href="/lib/Bootstrap/css/bootstrap.min.css" rel='stylesheet'>
-      <link href="/css/style.css" rel="stylesheet">
+      <link href="/ISA/lib/Bootstrap/css/bootstrap-theme.min.css" rel='stylesheet'>
+      <link href="/ISA/lib/Bootstrap/css/bootstrap.min.css" rel='stylesheet'>
+      <link href="/ISA/css/style.css" rel="stylesheet">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-      <script src="/lib/Bootstrap/js/bootstrap.min.js"></script>
-      <script src="/js/javascript.js"></script>
+      <script src="/ISA/lib/Bootstrap/js/bootstrap.min.js"></script>
+      <script src="/ISA/js/javascript.js"></script>
   </head>
   <body>
       
@@ -30,7 +31,7 @@
             </div>
               <div class="collapse navbar-collapse col-md-4 row" id="navbar-collapse">
                   <div class="collapse navbar-collapse navbar-left col-md-1">
-                   <a class="navbar-brank" href="#"><img height="60px" src="/img/logo.jpg"></a>
+                   <a class="navbar-brank" href="#"><img height="60px" src="/ISA/img/jiawei.jpg"></a>
                   </div>
                   <ul class="nav navbar-nav col-set-offset-1">
                       <li class="active"><a href="/">HOME</a></li>
