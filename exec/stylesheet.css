@@ -1,0 +1,32 @@
+.name_card{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px 10px 0px 10px;
+    border:black 1px dotted;
+    overflow: auto;
+}
+.thumbnail{
+    margin-left: 10%;
+    margin-right: 0%;
+}
+
+h2 {
+    font-family: cursive;
+    margin: 0 auto;
+    align-content: center;
+}
+
+h3 {
+    margin: 0px 0px 0px 20px;
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+
+.mid{
+    margin-left: 30%;
+}
+
+li.group-item{
+    padding: 5px 5px 5px 10px;
+    height: 20px;
+}

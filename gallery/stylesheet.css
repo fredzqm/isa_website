@@ -1,0 +1,15 @@
+@import "blueimp-gallery.min.css";
+      
+.box {
+    text-align: center;
+    top:15px;
+}
+.bar{
+    text-align: center;
+    font-size: 14px;
+    color: black;
+}
+.img {
+    height: 100px;
+}
+

@@ -1,0 +1,78 @@
+Format:
+[Title]
+details/[....php] // the url of website for this event
+[red,green,yellow,blue,black,purple] // color
+[Y/M/D-MM:SS] //start time
+[Y/M/D-MM:SS] //end time
+$
+Activity Fair
+blue
+2015/9/2-8:00
+$
+Welcome Party
+blue
+2015/9/12-14:00
+2015/9/12-17:00
+$
+Career Affair
+red
+2015/9/16-9:00
+2015/9/16-16:00
+$
+Homecoming
+blue
+2015/19/16-8:00
+$
+Mid-Autumn Festival
+purple
+2015/9/26-16:00
+$
+Cookout
+green
+$
+Rose Expo
+blue
+$
+Diwali
+purple
+2015/11/11-16:00
+$
+Pacer's game
+yellow
+$
+Basketball Tournment
+yellow
+$
+Bowling
+yellow
+$
+Diversity week
+blue
+$
+Quarterly Reconnect
+black
+$
+Laser tag
+yellow
+$
+Lunar New year
+purple
+2016/2/19-12:00
+$
+Quarterly Reconnect
+black
+$
+ISA election
+red
+$
+Global Cuisine
+blue
+$
+Cookout
+green
+$
+Laser Tag 2
+black
+$
+T-shirt Design
+red
