@@ -11,12 +11,14 @@
                 © 2015 <a href="/ISA/index.php">ISA Rose-Hulman</a>
             </p>
         </footer>
+<!--
         <div class="container">
             <h1 class="visible-xs">Extra small</h1>
             <h1 class="visible-sm">Small</h1>
             <h1 class="visible-md">Medium</h1>
             <h1 class="visible-lg">Large</h1>
         </div>
+-->
         <script src="javascript.js"></script>
     </body>
 </html>
