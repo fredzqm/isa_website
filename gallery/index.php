@@ -65,7 +65,7 @@ function pictures($files , $path){
 
 
 <div class="container">
-    <?php showPicturesInDirectory('img' , 'Gallery');?>
+    <?php showPicturesInDirectory('image_library' , 'Gallery');?>
 </div>
 
 

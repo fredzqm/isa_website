@@ -21,39 +21,18 @@
 
         <!-- Slides Container -->
         <div u="slides" style="cursor: move;position: absolute;left: 0px;top: 0px;overflow: hidden;height:250px;width:350px;">
-            <div>
-                <a u=image href="#"><img src="img/paint/01.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/02.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/03.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/04.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/05.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/06.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/07.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/08.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/09.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/10.jpg" /></a>
-            </div>
-            <div>
-                <a u=image href="#"><img src="img/paint/11.jpg" /></a>
-            </div>
+            <?php
+                $photosFormat = ['.jpg','.gif','.jpeg','.JPG'];
+                $files = scandir('slide_image');
+                foreach($files as $f){
+                    $indexOfDot = strpos($f , '.');
+                    if($indexOfDot>0){
+                        echo "<div>";
+                        echo "<a u=image href='#'><img src='slide_image/".$f."'></a>";
+                        echo "</div>";
+                    }
+                }
+            ?>
         </div>
 
         <!-- bullet navigator container -->
@@ -86,6 +65,7 @@
             </div>
         </div>
 </div>
+    
 <script src="lib/jssor.slider.min.js"></script>
 <script src="lib/alphabet.js"></script>
 <script src="lib/bubbles.js"></script>
