@@ -3,13 +3,27 @@
 .box {
     text-align: center;
     top:15px;
+    height: 230px;
+    overflow: scroll;
+}
+
+.showTitle .box{
+    height: 190px;
 }
 .bar{
     text-align: center;
     font-size: 14px;
     color: black;
 }
-.img {
-    height: 100px;
+
+ul.nav.nav-tabs {
+    margin-bottom: 20px;
 }
 
+figcaption {
+    display: none;
+}
+
+.showTitle figcaption {
+    display: block;
+}

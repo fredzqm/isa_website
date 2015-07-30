@@ -18,7 +18,7 @@ function bubble(){
 
     border_percentage = 2/(str.length+4);
     drawName(str, letterColors);
-//     bubbleShape = 'square';
+//    bubbleShape = 'square';
 //    bounceName();
     bounceBubbles();
 }

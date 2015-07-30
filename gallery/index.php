@@ -33,7 +33,7 @@ function showPicturesInDirectory($directory , $folder){
         echo '</ul>';
         echo '<div class="tab-content">';
             if(count($photos)!==0){
-                echo '<div class="active tab-pane fade in" id="'.$folder.'">';
+                echo '<div class="active tab-pane fade in showTitle" id="'.$folder.'">';
                     pictures($photos , $directory);
                 echo '</div>';
             }
@@ -52,12 +52,12 @@ function pictures($files , $path){
         $n = substr($f , 0 , strpos($f , '.') );
         $n = str_replace("_", " ", $n);//all _ in the name is interpreted as space.
 ?>
-        <figure class='box col-sx-12 col-sm-6 col-md-4 col-lg-3'>
-            <div class="thumbnail">
+        <figure class='col-sx-12 col-sm-6 col-md-4 col-lg-3'>
+            <div class="thumbnail box">
+                <figcaption class="caption"><?=$n?></figcaption>
                 <a href="<?=$p?>" title="<?=$n?>" data-gallery>
-                    <img class="image" src="<?=$p?>" alt="<?=$n?>" width="270" height="200" />
+                    <img class="image" src="<?=$p?>" alt="<?=$n?>" height="200px">
                 </a>
-<!--                <figcaption class="caption"><?=$n?></figcaption>-->
             </div>
         </figure>
     
@@ -105,6 +105,5 @@ function pictures($files , $path){
 </div>
 
 <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-<script src="js/bootstrap-image-gallery.min.js"></script>
       
 <?php require('../footer.php')?>
