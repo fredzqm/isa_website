@@ -28,10 +28,10 @@
                 </div>
                 <div class="collapse navbar-collapse col-md-4 row" id="navbar-collapse">
                     <div class="collapse navbar-collapse navbar-left col-md-1">
-                    <a href="/ISA/" alt="icon" ><img height="60px" src="/ISA/img/smalllogo.jpg"  class="img-circle"></a>
+                    <a href="/" alt="icon" ><img height="60px" src="/ISA/img/smalllogo.jpg"  class="img-circle"></a>
                     </div>
                     <ul class="nav navbar-nav col-xs-offset-1" id="head_navigation">
-                      <li id="home"><a href="/">HOME</a></li>
+                      <li id="home"><a href="/ISA/">HOME</a></li>
                       <li id="events"><a href="/ISA/events/">EVENTS</a></li>
                       <li id="faqs"><a href="/ISA/faqs/">FAQs</a></li>
                       <li id="gallery"><a href="/ISA/gallery/">GALLERY</a></li>
