@@ -5,7 +5,7 @@
     <hr>
     <div class="name_card">
         <div class="col-sm-4 ">
-            <img class="thumbnail" src="img/duck.jpg">
+            <img class="thumbnail" height="200px" src="img/duck.jpg">
         </div>
         <div class="col-sm-8">
             <ul class="center list-group">
@@ -29,7 +29,7 @@
     <hr>
     <div class="name_card">
         <div class="col-sm-4 ">
-            <img class="thumbnail" src="img/xiaoyin.jpg">
+            <img class="thumbnail" height="200px" src="img/xiaoyin.jpg">
         </div>
         <div class="col-sm-8">
             <ul class="center list-group">
@@ -54,7 +54,7 @@
     <hr>
     <div class="name_card">
         <div class="col-sm-4 ">
-            <img class="thumbnail" src="img/lingxiao.jpg">
+            <img class="thumbnail" height="200px" src="img/lingxiao.jpg">
         </div>
         <div class="col-sm-8">
             <ul class="center list-group">
@@ -79,7 +79,7 @@
     <hr>
     <div class="name_card">
         <div class="col-sm-4 ">
-            <img class="thumbnail" src="img/fred.jpg">
+            <img class="thumbnail" height="200px" src="img/fred.jpg">
         </div>
         <div class="col-sm-8">
             <ul class="center list-group">
