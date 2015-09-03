@@ -1,5 +1,5 @@
 <?php
-$TIME_ZONE =  8 ;//Beijing Time
+$TIME_ZONE =  -4 ;//Indiana Time
 $DEFAULT_DURATION = 1;
 $out = array();
 $file=file_get_contents("events.txt");

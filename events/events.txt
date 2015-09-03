@@ -19,28 +19,22 @@ red
 2015/9/16-9:00
 2015/9/16-16:00
 $
-Homecoming
+Day of Service
 blue
-2015/19/16-8:00
+2015/10/24-8:00
 $
 Mid-Autumn Festival
 purple
-2015/9/26-16:00
-$
-Cookout
-green
-$
-Rose Expo
-blue
+2015/11/6-16:00
 $
 Diwali
 purple
-2015/11/11-16:00
+2015/11/7-16:00
 $
 Pacer's game
 yellow
 $
-Basketball Tournment
+Basketball Tournament
 yellow
 $
 Bowling
@@ -64,6 +58,12 @@ black
 $
 ISA election
 red
+$
+Cookout
+green
+$
+Rose Expo
+blue
 $
 Global Cuisine
 blue
