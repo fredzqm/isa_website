@@ -21,7 +21,7 @@
                 <li class="list-group-item"><h3>
                     Email: <a href="mailto:gongy@rose-hulman.edu">gongy@rose-hulman.edu</a>
                 </h3></li>
-                <li class="list-group-item"><h3>Her words: What lies behind us, and what lies ahead of us, are tiny matters compared to what lies within us.</h3></li>
+                <li class="list-group-item"><h3>His words: What lies behind us, and what lies ahead of us, are tiny matters compared to what lies within us.</h3></li>
             </ul>
         </div>
     </div>
@@ -45,7 +45,7 @@
                 <li class="list-group-item"><h3>
                     Email: <a href="mailto:lingx@rose-hulman.edu">lingx@rose-hulman.edu</a>
                 </h3></li>
-                <li class="list-group-item"><h3>His words: Love traveling and seafood!!</h3></li>
+                <li class="list-group-item"><h3>Her words: Love traveling and seafood!!</h3></li>
             </ul>
         </div>
     </div>
