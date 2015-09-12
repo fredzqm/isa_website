@@ -8,6 +8,9 @@ $out = array();
 
 $colorToClass = ['red'=>'event-important','green'=>'event-success','yellow'=>'event-warning','blue'=>'event-info','black'=>'event-inverse' ,'purple'=>'event-special'];
 
+$files = scandir('details/');
+
+
 //convert the array of events to specified array format
 for($i = 1 ; $i < count($events) ; $i++){
     $e = $events[$i];
@@ -21,11 +24,18 @@ for($i = 1 ; $i < count($events) ; $i++){
         }
         $start -= 3600*$TIME_ZONE; //convert time zone
         $end -= 3600*$TIME_ZONE;
+        $Formal_name = str_replace(" ", "_", $d[0]);
+        
+        if(in_array($Formal_name.'.html' , $files)){
+            $url = "events_a.php?a=".$Formal_name;
+        }else{
+            $url = '#';
+        }
         $out[] = array(
             'length' => count($d),
             'id' => $i,
             'title' => $d[0],
-            'url' => "events_a.php?a=".str_replace(" ", "_", $d[0]),
+            'url' => $url,
             'class' => $colorToClass[$d[1]],
             'start' => "".$start."000",
             'end' =>  "".$end."000"

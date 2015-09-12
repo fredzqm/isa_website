@@ -46,17 +46,18 @@
         <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
             <!-- Jssor Slider End -->
     <div id= "recent" class="inner_box col-xs-12 col-md-6 col-lg-6">
-        <hr>
-        <h2><a id = 'r1' href="events/details/welcome_party.php">Welcome Party!!</a></h2>
+        <hr class="visible-lg">
+        <h2><a id = 'r1' href="events/events_a.php?a=Welcome_Party">Welcome Party!!</a></h2>
         <h3><a id = 'r2' href="events/">On Sept. 5th, Saturday, 3pm-5pm</a></h3>
         <h3 id = "r3">Food, ice-creams, Game, free T-shirt, Friends!</h3>
         <h2 id = 'r4'> Come to the club you belong to and have fun!</h2>
-        <br>
-        <hr>
+        <br class="visible-lg">
+        <hr class="visible-lg">
     </div>
         
     <div class="inner_box col-xs-12 col-md-8">
-        <img class='full' src="img/inforCard.png">
+        <img class='full' src="img/inforCard1.png">
+        <img class='full' src="img/inforCard2.png">
     </div>
     <div class="inner_box col-xs-12 col-md-4">
         <img class='full' src="img/sleeve.jpg">
