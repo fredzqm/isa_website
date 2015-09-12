@@ -5,7 +5,7 @@
     <hr>
     <div class="name_card">
         <div class="col-sm-4 ">
-            <img class="thumbnail" height="200px" src="img/duck.jpg">
+            <img class="thumbnail" height="200px" src="img/yukun.jpg">
         </div>
         <div class="col-sm-8">
             <ul class="center list-group">
@@ -16,7 +16,7 @@
                     <span>Major: CHE </span><span class="mid">Class: 2017</span>
                 </h3></li>
                 <li class="list-group-item"><h3>
-                    Position: President:
+                    Position: President
                 </h3></li>
                 <li class="list-group-item"><h3>
                     Email: <a href="mailto:gongy@rose-hulman.edu">gongy@rose-hulman.edu</a>
@@ -40,7 +40,7 @@
                     <span>Major: BE </span><span class="mid">Class: 2017</span>
                 </h3></li>
                 <li class="list-group-item"><h3>
-                    Position: Vice President:
+                    Position: Vice President
                 </h3></li>
                 <li class="list-group-item"><h3>
                     Email: <a href="mailto:lingx@rose-hulman.edu">lingx@rose-hulman.edu</a>
@@ -49,7 +49,6 @@
             </ul>
         </div>
     </div>
-    
 
     <hr>
     <div class="name_card">
@@ -75,6 +74,29 @@
         </div>
     </div>
     
+    <hr>
+    <div class="name_card">
+        <div class="col-sm-4 ">
+            <img class="thumbnail" height="200px" src="img/jiaojiao.jpg">
+        </div>
+        <div class="col-sm-8">
+            <ul class="center list-group">
+                <li class="list-group-item"><h2>
+                    <span class="col-offset-md-3">Jiaojiao Wang</span>
+                </h2></li>
+                <li class="list-group-item"><h3>
+                    <span>Major: BE </span><span class="mid">Class: 2017</span>
+                </h3></li>
+                <li class="list-group-item"><h3>
+                    Position: Public Relations
+                </h3></li>
+                <li class="list-group-item"><h3>
+                    Email: <a href="mailto:wangj2@rose-hulman.edu">wangj2@rose-hulman.edu</a>
+                </h3></li>
+                <li class="list-group-item"><h3>Her words: Always remember why you are here.</h3></li>
+            </ul>
+        </div>
+    </div>
     
     <hr>
     <div class="name_card">
@@ -84,10 +106,10 @@
         <div class="col-sm-8">
             <ul class="center list-group">
                 <li class="list-group-item"><h2>
-                    <span class="col-offset-md-3">Qinmao（Fred） Zhang</span>
+                    <span class="col-offset-md-3">Qinmao（Fred) Zhang</span>
                 </h2></li>
                 <li class="list-group-item"><h3>
-                    <span>Major: CS,EE</span><span class="mid">Class: 2018</span>
+                    <span>Major: SE/EE </span><span class="mid">Class: 2018</span>
                 </h3></li>
                 <li class="list-group-item"><h3>
                     Position: Webmaster
