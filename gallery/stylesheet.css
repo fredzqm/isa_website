@@ -4,7 +4,7 @@
     text-align: center;
     top:15px;
     height: 230px;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .showTitle .box{

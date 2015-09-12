@@ -2,6 +2,7 @@ $(document).ready(main);
 
 function main(){
     $('#home').addClass('active');
+    
     slider();
     bubble();
 }

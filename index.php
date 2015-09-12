@@ -45,25 +45,23 @@
         <!-- Jssor Slider Begin -->
         <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
             <!-- Jssor Slider End -->
-        <div id= "aside" class="inner_box col-xs-12 col-md-6 col-lg-6">
-            <h2><a href="events/details/welcome_party.php">Welcome Party!!</h2>
-            <ul>
-                <a href="http://www.rose-hulman.edu/offices-and-services/student-life/orientation/international-students.aspx" target="_blank">
-                    <li>2015 International student orientation schedule</li>
-                </a>
-                <a href="http://www.rose-hulman.edu/offices-and-services/registrar/calendars-schedules/2015-16-calendar.aspx" target="_blank">
-                    <li>Academic scedule</li>
-                </a>
-                <a href="#"><li>Airport pick-up information</li></a>
-                <a href="http://www.rose-hulman.edu/intranet.aspx" target="_blank"><li>Intranet, every site you will need in Rose</li></a>
-            </ul>
-            <hr>
-
-            <div class="inner_box">
-
-
-            </div>
-        </div>
+    <div id= "recent" class="inner_box col-xs-12 col-md-6 col-lg-6">
+        <hr>
+        <h2><a id = 'r1' href="events/details/welcome_party.php">Welcome Party!!</a></h2>
+        <h3><a id = 'r2' href="events/">On Sept. 5th, Saturday, 3pm-5pm</a></h3>
+        <h3 id = "r3">Food, ice-creams, Game, free T-shirt, Friends!</h3>
+        <h2 id = 'r4'> Come to the club you belong to and have fun!</h2>
+        <br>
+        <hr>
+    </div>
+        
+    <div class="inner_box col-xs-12 col-md-8">
+        <img class='full' src="img/inforCard.png">
+    </div>
+    <div class="inner_box col-xs-12 col-md-4">
+        <img class='full' src="img/sleeve.jpg">
+    </div>
+    
 </div>
     
 <script src="lib/jssor.slider.min.js"></script>

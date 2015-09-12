@@ -3,7 +3,8 @@
   <head>
       <title>ISA</title>
       <link href="/ISA/lib/Bootstrap/css/bootstrap.min.css" rel='stylesheet'>
-<!--      <link href="/ISA/lib/Bootstrap/css/theme.css" rel='stylesheet'>-->
+      <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/grundschrift" rel="stylesheet" type="text/css"/>
+      <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/mr-pixel" rel="stylesheet" type="text/css"/>
       <link href="/ISA/style.css" rel="stylesheet">
       <link href="stylesheet.css" rel="stylesheet">
       <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>

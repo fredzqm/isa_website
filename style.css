@@ -1,3 +1,8 @@
+@font-face {
+    font-family: curly;
+    src: url(/.woff);
+}
+
 p{
     font-family: sans-serif;
     font-size: 1.3em;
@@ -37,6 +42,10 @@ header > div{
         font-size: 3.5em;
         width: 753px;
     }
+}
+
+.full{
+    width: 100%;
 }
 
 @media (max-width:768px){
@@ -82,3 +91,9 @@ footer a {
 hr {
     clear: both;
 }
+
+/*
+.clear {
+    clear: both;
+}
+*/

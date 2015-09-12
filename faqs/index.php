@@ -12,7 +12,9 @@
               <div id="about_us" class="panel-collapse collapse">
                   <div class="panel-body">
                       <p>
-                      International Student Association (ISA) at Rose-Hulman Institute of Technology is a student lead organization that plans a wide variety of activities and events of international background. Events are and not only limited to Chinese New Year, and Global Cuisine Night but also smaller and more fun activities like laser tag, go kart and cook-out and these happen all throughout the year.
+                      The goal of the International Student Association (ISA) is to gather both international and non-international students, staff, and faculty to initiate an environment of cultural learning and promote international understanding, friendship, and goodwill.  Throughout the year, we will provide opportunities for campus community members to broaden their horizons of knowledge and become better acquainted with diversity and foreign culture through activities and campus involvement.
+
+In addition to our goals, we make it a priority to help our international students feel comfortable and make Rose-Hulman a place they can call their second home.  We also provide opportunities for both international and non-international students who are interested in studying abroad.
                       </p>
                   </div>
               </div>
@@ -20,7 +22,7 @@
           <div class="panel panel-default">
               <div class="panel-heading">
                   <a data-toggle="collapse" data-parent="#content" href="#object"><h1 class="panel-title">
-                      What is the object of ISA?
+                      What is the objective of ISA?
                   </h1></a>
               </div>
               <div id="object" class="panel-collapse collapse">
@@ -34,12 +36,12 @@
           <div class="panel panel-default">
               <div class="panel-heading">
                   <a data-toggle="collapse" data-parent="#content" href="#big_event"><h1 class="panel-title">
-                      Who is responsible ISA?</h1></a>
+                      Who is responsible for ISA?</h1></a>
               </div>
               <div id="big_event" class="panel-collapse collapse">
                   <div class="panel-body">
                       <p>
-                          Global cuisine
+                          An ISA exec committe elected.
                       </p>
                   </div>
               </div>
@@ -52,7 +54,7 @@
               <div id="up_coming" class="panel-collapse collapse">
                   <div class="panel-body">
                       <p>
-                      Welcome party for new international students
+                      We have three major events -- Diwali, Lunar New Year and global cuisine as well as other culture events.
                       </p>
                   </div>
               </div>

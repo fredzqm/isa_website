@@ -32,7 +32,7 @@
 }
 
 @media(min-width:992px){
-    #aside {
+    #recent {
         margin:10px 10px 10px 30px;
     }
     #slider_container {
@@ -46,16 +46,22 @@
         margin-right: auto;
     }
 }
-
-#aside ul a{
-    font-size: 1.7em;
-    line-height: 2em;
-    color:black;
+#recent{
+    border-bottom: 70px;
 }
-#aside h2 a{
-    font-family: serif;
+a#r1{
+    font-family: 'VTFMisterPixelRegular', Georgia, cursive;
     font-size: 1.8em;
     color:red;
+    font-weight: normal; 
+    font-style: normal; 
 }
 
+#r4 {
+    font-family: 'GrundschriftBold'; 
+    font-weight: bold; 
+    font-style: normal;
+    font-size: 4em;
+    color: #FFD119;
+}
 
