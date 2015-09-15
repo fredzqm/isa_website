@@ -121,7 +121,28 @@
             </ul>
         </div>
     </div>
-
+    
+    <hr>
+    <div class="name_card">
+        <div class="col-sm-4 ">
+            <img class="thumbnail" height="200px" src="img/karen.jpg">
+        </div>
+        <div class="col-sm-8">
+            <ul class="center list-group">
+                <li class="list-group-item"><h2>
+                    <span class="col-offset-md-3">Karen DeGrange</span>
+                </h2></li>
+                <li class="list-group-item"><h3>
+                    Position: Faculty Advisor
+                </h3></li>
+                <li class="list-group-item"><h3>
+                    Email: <a href="mailto:karen.degrange@rose-hulman.edu">karen.degrange@rose-hulman.edu</a>
+                </h3></li>
+                <li class="list-group-item"><h3>Karen DeGrange is ready to support and guide students through a wide range of visa and documentation issues. In addition, Ms. DeGrange plans cultural exchanges and activities throughout the school year, giving international students the opportunity to express and share their culture with others.</h3></li>
+            </ul>
+        </div>
+    </div>
+    
 </div>
 
 <?php require('../footer.php')?>

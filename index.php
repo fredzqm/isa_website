@@ -1,7 +1,7 @@
 <?php require('header.php')?>        
         
 <div class="container content_box">
-    <h1 id="canvasText" style="display:none;">Welcome to Rose-Hulman!</h1>
+    <h1 id="canvasText" style="display:none;">Welcome to International Student Association!</h1>
     <canvas id="myCanvas"></canvas>
 </div>
 
@@ -47,10 +47,10 @@
             <!-- Jssor Slider End -->
     <div id= "recent" class="inner_box col-xs-12 col-md-6 col-lg-6">
         <hr class="visible-lg">
-        <h2><a id = 'r1' href="events/events_a.php?a=Welcome_Party">Welcome Party!!</a></h2>
-        <h3><a id = 'r2' href="events/">On Sept. 5th, Saturday, 3pm-5pm</a></h3>
-        <h3 id = "r3">Food, ice-creams, Game, free T-shirt, Friends!</h3>
-        <h2 id = 'r4'> Come to the club you belong to and have fun!</h2>
+        <h2><a id = 'r1' href="events/events_a.php?a=Welcome_Party">Welcome back, alumni!</a></h2>
+        <h3><a id = 'r2' href="events/">On Sept. 19th, Saturday, 10:30am-1:30pm</a></h3>
+        <h3 id = "r3"> There will be a table set up between Olin first floor and Hadley Hall.</h3>
+        <h2 id = 'r4'> Come and meet the current officers and share you post-Rose experience.</h2>
         <br class="visible-lg">
         <hr class="visible-lg">
     </div>
