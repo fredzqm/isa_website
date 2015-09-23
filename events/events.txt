@@ -40,9 +40,6 @@ $
 Pacer's game
 yellow
 $
-Basketball Tournament
-yellow
-$
 Bowling
 yellow
 $

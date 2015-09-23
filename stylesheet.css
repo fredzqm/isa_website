@@ -49,11 +49,20 @@
 #recent{
     border-bottom: 70px;
 }
+
 a#r1{
     font-family: 'VTFMisterPixelRegular', Georgia, cursive;
     font-size: 1.8em;
     color:red;
     font-weight: normal; 
+    font-style: normal; 
+}
+
+#r3{
+    font-family: fantasy , Georgia, cursive;
+    font-size: 2.5em;
+    color: brown;
+    font-weight: bold; 
     font-style: normal; 
 }
 
