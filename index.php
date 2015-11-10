@@ -50,7 +50,7 @@
         <h2><a id = 'r1' href="events/events_a.php?a=Welcome_Party">Have a mooncake!</a></h2>
         <h3><a id = 'r2' href="events/">On Sept. 26th, Saturday, 7:00pm-9:00pm</a></h3>
         <h3 id = "r3"> See you at <u>Speed beach!</u></h3>
-        <h2 id = 'r4'> Come and enjoy mooncake. How full it the moon tonight?</h2>
+        <h2 id = 'r4'> Come and enjoy mooncake. How full is the moon tonight?</h2>
         <br class="visible-lg">
         <hr class="visible-lg">
     </div>
