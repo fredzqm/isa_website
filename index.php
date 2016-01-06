@@ -50,10 +50,9 @@
         <h2><a id = 'r1' href="events/events_a.php?a=professional">Professional events!</a></h2>
         <h3><a id = 'r2' href="events/">On Jan. 13th, Wednesday, Time and place to be anounced</a></h3>
         <h3 id = "r3"> Winter Career affair upcomming!</h3>
-        <h2 id = 'r4'> Sharing experience of internship seeking <br>
-            Come and gain more experience.</h2>
+        <h3 id = 'r4'> Sharing experience of internship</h3>
+        <h3 id = 'r4'> Come and gain more experience.</h3>
         <br class="visible-lg">
-        <hr class="visible-lg">
     </div>
         
     <div class="inner_box col-xs-12 col-md-8">
