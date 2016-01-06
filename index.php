@@ -47,10 +47,11 @@
             <!-- Jssor Slider End -->
     <div id= "recent" class="inner_box col-xs-12 col-md-6 col-lg-6">
         <hr class="visible-lg">
-        <h2><a id = 'r1' href="events/events_a.php?a=Welcome_Party">Have a mooncake!</a></h2>
-        <h3><a id = 'r2' href="events/">On Sept. 26th, Saturday, 7:00pm-9:00pm</a></h3>
-        <h3 id = "r3"> See you at <u>Speed beach!</u></h3>
-        <h2 id = 'r4'> Come and enjoy mooncake. How full is the moon tonight?</h2>
+        <h2><a id = 'r1' href="events/events_a.php?a=professional">Professional events!</a></h2>
+        <h3><a id = 'r2' href="events/">On Jan. 13th, Wednesday, Time and place to be anounced</a></h3>
+        <h3 id = "r3"> Winter Career affair upcomming!</h3>
+        <h2 id = 'r4'> Sharing experience of internship seeking <br>
+            Come and gain more experience.</h2>
         <br class="visible-lg">
         <hr class="visible-lg">
     </div>
