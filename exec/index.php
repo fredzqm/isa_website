@@ -73,6 +73,29 @@
             </ul>
         </div>
     </div>
+    <hr>
+    <div class="name_card">
+        <div class="col-sm-4 ">
+            <img class="thumbnail" height="200px" src="img/yushijun.jpg">
+        </div>
+        <div class="col-sm-8">
+            <ul class="center list-group">
+                <li class="list-group-item"><h2>
+                    <span class="col-offset-md-3">Shiyun Yu</span>
+                </h2></li>
+                <li class="list-group-item"><h3>
+                    <span>Major: CS </span><span class="mid">Class: 2019</span>
+                </h3></li>
+                <li class="list-group-item"><h3>
+                    Position: Public Relations
+                </h3></li>
+                <li class="list-group-item"><h3>
+                    Email: <a href="mailto:yus3@rose-hulman.edu">yus3@rose-hulman.edu</a>
+                </h3></li>
+                <li class="list-group-item"><h3>His words: Tomorrow is another day.</h3></li>
+            </ul>
+        </div>
+    </div>
     
     <hr>
     <div class="name_card">
@@ -121,6 +144,7 @@
             </ul>
         </div>
     </div>
+    
     
     <hr>
     <div class="name_card">
